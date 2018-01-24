@@ -2,6 +2,8 @@
 #!/usr/bin/env python
 # Network pgm
 #handle socket errors gracefully
+#
+#
 
 __author__ = 'Raj'
 __copyright__ = 'No One'
